@@ -6,3 +6,8 @@ Dans le cadre d’un projet de 2eme année de bts SIO j’ai créer une applicat
 
 L'application est directement prête à être utilisée
 
+
+## Aperçu
+
+![Taquin](images/taquin.png)
+![Morpion](images/morpion.png)
