@@ -10,5 +10,5 @@ L'application est directement prête à être utilisée
 ## Aperçu
 
 ![Menu](images/menu.png)
-![MCD](images/mcd.png)
+![Taquin](images/taquin.png)
 ![Morpion](images/morpion.png)
