@@ -1,16 +1,8 @@
-# game_toy
+## Description
 
-A new Flutter project.
+Dans le cadre d’un projet de 2eme année de bts SIO j’ai créer une application "GameToy" regroupant des jeux jouable depuis une interface graphique dans le language de programmation dart et le framework flutter
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+L'application est directement prête à être utilisée
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
